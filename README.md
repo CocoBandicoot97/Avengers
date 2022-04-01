@@ -1,7 +1,7 @@
 # Avengers.github.io
 Lavoro di gruppo (Avengers)
 
-# Restyling di Generetion.it
+# Restyling di Generation.it
 
 # Gruppo: 
 Francesca, Miriam, Samantha, Francesco, Federico
