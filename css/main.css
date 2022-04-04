@@ -3074,15 +3074,28 @@ input, select, textarea {
 	#header {
 		padding: 5em 5em 1em 5em ;
 		text-align: center;
+		background-image: url("../images/gruppi-di-studio.jpg");
+		background-size: 100% 100%;
+		color: #864786;
+		text-shadow: 1px 1px 1px black;
+		font-weight: bold;
 	}
 
 		#header h1 {
 			margin: 0 0 0.25em 0;
+			
 		}
+
+		#header h1, #header h2{
+			color: #864786;
+			font-weight: bold;
+		}
+
 
 		#header p {
 			font-size: 1.25em;
 			letter-spacing: -0.025em;
+			
 		}
 
 		#header.alt {
