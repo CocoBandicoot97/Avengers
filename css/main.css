@@ -2231,7 +2231,7 @@ input, select, textarea {
 		position: relative;
 	}
 
-		.icon:before {
+		.icon:not(.fa-java):before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			display: inline-block;
@@ -2242,6 +2242,7 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
+
 		}
 
 		.icon > .label {
