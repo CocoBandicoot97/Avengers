@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
 /*
@@ -208,6 +208,11 @@ input, select, textarea {
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2;
+	}
+	.titolodestro{
+		padding-left: 700px;
+		padding-bottom: 100px;
+		margin-top: -50px;
 	}
 
 	h2 {
