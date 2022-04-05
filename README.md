@@ -7,11 +7,12 @@ Lavoro di gruppo (Avengers)
 Francesca, Miriam, Samantha, Francesco, Federico
 
 # Tecnologie utilizzate: 
-HTML, CSS
+HTML, CSS, JavaScript
 
 # Ringraziamo: 
-Html5up per il template
+Template by Html5up 
 Photo by Fatos Bytyqi on unsplash.com
-
+Icons by FontAwesome
+Cookie Bar by CSSScript 
 =======
 
