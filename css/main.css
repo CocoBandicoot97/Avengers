@@ -3698,6 +3698,18 @@ input, select, textarea {
 
 		}
 
+		.allineamento{
+			text-align: center;
+			font-weight: bold;
+			text-shadow: 1px 1px black;
+			
+		}
+
+		#wiki{
+			font-size: 500%;
+			font-weight: bolder;
+		}
+
 /* Footer */
 
 	#footer {
